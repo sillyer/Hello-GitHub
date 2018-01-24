@@ -7,11 +7,11 @@ On GitHub, saved changes are called commits.
 2017.12.19 from cyt in xtptb
 
 ## git commands
-git clone url
-git add .
-git add xxx
-git commit -m 'test'
-git pull
-git push
-git status
-git remote -v
+> git clone url
+> git add .
+> git add xxx
+> git commit -m 'test'
+> git pull
+> git push
+> git status
+> git remote -v

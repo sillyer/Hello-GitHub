@@ -24,14 +24,14 @@ start to learn using GitHub
 ### 文本块
 #### 语法一
 
-'''
+```
 Python
 x = "There are %d types of people." % 10
 binary = "binary"
 do_not = "don't"
 y = "Those who know %s and those who %s" % (binary, do_not)
 # 格式化字符串多个变量需要使用圆括号
-'''
+```
 	
 
 ### About commits

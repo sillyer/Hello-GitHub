@@ -24,8 +24,7 @@ start to learn using GitHub
 ### 文本块
 #### 语法一
 
-```
-Python
+```Python
 x = "There are %d types of people." % 10
 binary = "binary"
 do_not = "don't"
